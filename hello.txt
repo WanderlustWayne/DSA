@@ -9,16 +9,4 @@ Pull requests
 Actions
 Projects
 Wiki
-Security
-Insights
-
-    Settings
-
-Owner avatar
-DSA
-Public
-
-WanderlustWayne/DSA
-t
-Name	Last commit message
-	Last commit date
+S
