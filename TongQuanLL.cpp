@@ -63,8 +63,8 @@ Node *deleteHead(Node *head)
     delete head;
     return tmp;
 }
-
-// Xóa node cuối
+// đàcxsdvxc
+//  Xóa node cuối
 Node *deleteEnd(Node *head)
 {
     if (!head || !head->next)
